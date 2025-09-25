@@ -1,6 +1,6 @@
-```markdown
 # SHL-Automata-Tests-2024-2025
 
+```markdown
 > ⚙️ A structured problem-solving test series focused on **Data Structures and Algorithms (DSA)**.  
 > 🧠 Designed to build strong backend logic skills for technical interviews, coding rounds, and academic evaluations.
 
@@ -52,5 +52,3 @@ Used for backend-focused assessments, internal evaluations, and interview prep.
 For support or submissions, contact:  
 📧 `your-email@example.com`  
 🔗 [github.com/yourusername](https://github.com/Harshbhagat22)
-
----
