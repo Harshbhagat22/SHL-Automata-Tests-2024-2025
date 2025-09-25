@@ -50,4 +50,4 @@ Used for backend-focused assessments, internal evaluations, and interview prep.
 
 For support or submissions, contact:  
 📧 `your-email@example.com`  
-🔗 [github.com/yourusername](https://github.com/Harshbhagat22)
+🔗 [github.com/Harsh](https://github.com/Harshbhagat22)
