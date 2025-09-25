@@ -54,8 +54,3 @@ For support or submissions, contact:
 🔗 [github.com/yourusername](https://github.com/Harshbhagat22)
 
 ---
-
-Happy problem solving! 🚀
-
-
-Let me know if you'd like this version in PDF or want a version localized for a specific platform like HackerRank or Codeforces.
